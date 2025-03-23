@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.ibrohimapk3.workwithgit"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.ibrohimapk3.workwithgit"
